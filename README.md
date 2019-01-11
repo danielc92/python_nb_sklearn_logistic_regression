@@ -35,5 +35,5 @@ pip install pandas sklaern numpy jupyter
 # Sources
 - [Building A Logistic Regression in Python, Step by Step by Susan Li](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
 - [Introduction to k-fold Cross validation](https://machinelearningmastery.com/k-fold-cross-validation/)
-- [More on cross validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+- [More on cross validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
 - [Logistic Regression Machine Learning Method Using Scikit Learn and Pandas Python - Tutorial 31 by 'TheEngineeringWorld'](https://www.youtube.com/watch?v=1nWFHa6K23w)
