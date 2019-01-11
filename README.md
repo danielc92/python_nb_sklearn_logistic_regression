@@ -14,6 +14,12 @@ This project runs on python3. The following libraries need to be installed befor
 - `pandas`
 - `sklearn`
 - `numpy`
+- `jupyter`
+
+**installation:**
+```sh
+pip install pandas sklaern numpy jupyter
+```
 
 # Notebooks
 - `notebook_log_reg_ForDataScience.ipynb` - Followed example from for data science article by Susan Li
